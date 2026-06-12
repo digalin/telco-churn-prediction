@@ -4,5 +4,6 @@ data/processed/
 *.csv
 
 # Models 
+models/
 models/*.pkl
 models/*.joblib
